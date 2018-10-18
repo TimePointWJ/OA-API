@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OA
+Implementation-Version: 1.5.8.RELEASE
+Built-By: Administrator
+Implementation-Vendor-Id: com.zs.axb
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/OA/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
